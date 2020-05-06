@@ -2,5 +2,11 @@
   "name": "flow-issue-2",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.124.0"
+  },
+  "dependencies": {
+    "idb": "^5.0.2"
+  }
 }
